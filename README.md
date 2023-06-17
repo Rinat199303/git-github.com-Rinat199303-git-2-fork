@@ -1,4 +1,4 @@
-#NeuroStartUp
+# NeuroStartUp
 ![](http://netolgy-code.github.io/git-homrworks/introduction/assets/logo.png)
 *NeuroStartUp* - динамически развивающийся стартап, специализирующийся на поиске и использовании новейших технологий искусственного интеллекта
 Наши преймущества:
